@@ -47,5 +47,3 @@ This platform is designed to:
 
 ---
 
-## 🧱 System Architecture
-
